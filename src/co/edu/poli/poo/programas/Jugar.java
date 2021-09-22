@@ -7,6 +7,7 @@ import java.util.Scanner;
 import co.edu.poli.poo.archivos.Archivos;
 
 public class Jugar {
+	
 	static Scanner s;
 	static Archivos archivos;
 	 static List<String> palabras;
